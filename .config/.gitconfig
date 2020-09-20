@@ -1,0 +1,8 @@
+[user]
+	email = 7Cattac@gmail.com
+	name = Pedro Serrano
+	signingkey = C425F84BC7FE1A1C
+[commit]
+	gpgsign = true
+[credential]
+	helper = netrc -f ~/.netrc.gpg -v -d
